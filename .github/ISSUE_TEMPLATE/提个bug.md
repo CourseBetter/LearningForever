@@ -1,7 +1,7 @@
 ---
 name: 提个bug
 about: 提交bug让我们的学习效率更高
-title: ''
+title: "[一句话概括bug]"
 labels: bug
 assignees: Jokcy
 
